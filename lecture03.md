@@ -1,22 +1,21 @@
 # 第3回講義の学び
 
 1.サンプルアプリケーションのデプロイ  
-![image](/RaiseTech/blob/lecture03/raisetech 03 picture/sample 2023-07-02.png)  
-![image](/blob/lecture03/raisetech 03 picture/sample 2023-07-02.png)  
-![image](/lecture03/raisetech 03 picture/sample 2023-07-02.png)  
+![sample](/raisetech 03 picture/sample 2023-07-02.png)  
 
+2.APサーバーについて　　
   - サーバー名とバージョン　puma version 5.6.5  
-![image](/raisetech 03 picture/2023-07-02 puma runnng.png)  　
+![puma runnng](/raisetech 03 picture/2023-07-02 puma runnng.png)  　
   - サーバーを終了させた場合引き続きアクセスできるか→できない  
-![image](/raisetech 03 picture/2023-07-02 puma stop.png)　　 
+![puma st](/raisetech 03 picture/2023-07-02 puma stop.png)　　 
   - 確認後、サーバー再起動する  
-![image](/raisetech 03 picture/2023-07-02 puma restart.png)  
+![puna re](/raisetech 03 picture/2023-07-02 puma restart.png)  
 
 3.DBサーバーについて  
   - サーバー名とバージョン　mysql ver.8.0.33  
-  ![image](/raisetech 03 picture/2023-07-02 mysql-v.png)  
+  ![db ver](/raisetech 03 picture/2023-07-02 mysql-v.png)  
   - サーバーを終了させた場合、引き続きアクセスできるか→できない  
-  ![image](/raisetech 03 picture/2023-07-02 mysql stop.png)  
+  ![db st](/raisetech 03 picture/2023-07-02 mysql stop.png)  
 
 4.Railsの構成管理ツール名→Bundler  
 5.今回の課題から学んだこと  
