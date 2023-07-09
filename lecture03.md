@@ -9,7 +9,7 @@
   - サーバーを終了させた場合引き続きアクセスできるか→できない  
 ![puma st](/picture03/puma-stop.png)　　 
   - 確認後、サーバー再起動する  
-![puna re](/RaiseTech/picture03/puma-restart.png)  
+![puna re](/picture03/puma-restart.png)  
 
 3.DBサーバーについて  
   - サーバー名とバージョン　mysql ver.8.0.33  
