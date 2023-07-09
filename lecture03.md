@@ -1,9 +1,7 @@
 # 第3回講義の学び
 
 1.サンプルアプリケーションのデプロイ  
-![image](/c:\Users\go_go\OneDrive\画像\raisetech 03 picture\sample 2023-0702.png)  
-![image](c:\Users\go_go\OneDrive\画像\raisetech 03 picture\sample 2023-0702.png)  
-
+![image](/sample 2023-07-02.png)  
 2．APサーバーについて  
   - サーバー名とバージョン　puma version 5.6.5  
 ![image](/raisetech 03 picture/2023-07-02 puma runnng.png)  　
