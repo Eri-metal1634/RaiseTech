@@ -1,8 +1,10 @@
 # 第3回講義の学び
 
 1.サンプルアプリケーションのデプロイ  
-![image](/sample 2023-07-02.png)  
-2．APサーバーについて  
+![image](/RaiseTech/blob/lecture03/raisetech 03 picture/sample 2023-07-02.png)  
+![image](/blob/lecture03/raisetech 03 picture/sample 2023-07-02.png)  
+![image](/lecture03/raisetech 03 picture/sample 2023-07-02.png)  
+
   - サーバー名とバージョン　puma version 5.6.5  
 ![image](/raisetech 03 picture/2023-07-02 puma runnng.png)  　
   - サーバーを終了させた場合引き続きアクセスできるか→できない  
