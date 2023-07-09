@@ -2,6 +2,8 @@
 
 1.サンプルアプリケーションのデプロイ  
 ![image](/raisetech 03 picture/sample 2023-07-02.png)  
+![image](sample 2023-07-02.png)  
+![picture 0](images/1301c9355895a7c3cd2dda0b46e8d833adfb86d198bcbe67b26a1f537f6f24ec.png)   
 
 2．APサーバーについて  
   - サーバー名とバージョン　puma version 5.6.5  
